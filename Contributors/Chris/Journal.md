@@ -40,7 +40,7 @@ age10 %>%
 
 To make the exported plot taller, I simply told it to be 1000 px tall in the dialog when I manually saved it. However this could also be done programmatically in the R code to save out the file.
 
-To make ggplot make the plot taller.
 ![Iowa Median Age](images/iowaCountyMedianAge2010.png)
 
 ### Week 2
+some more fun stuff
