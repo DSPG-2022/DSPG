@@ -2,5 +2,5 @@
 
 [Rakesh](https://dspg-2022.github.io/DSPG/Contributors/Rakesh/)
 
-Chris [Markdown example](https://dspg-2022.github.io/DSPG/Contributors/Chris/) or [Remark Example](https://dspg-2022.github.io/DSPG/Contributors/Chris/journal.html)
+Chris [Markdown example](https://dspg-2022.github.io/DSPG/Contributors/Chris/) or [Remark Example](https://dspg-2022.github.io/DSPG/Contributors/Chris/Journal.html)
 
