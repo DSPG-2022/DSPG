@@ -22,9 +22,9 @@
 class: center, middle
 
 # Christopher J. Seeger
-      ##DSPG Journal 2022
+## DSPG Journal 2022
   
-     images/cjseeger.jpg
+(images/cjseeger.jpg)
       
 
 ---
@@ -38,19 +38,26 @@ class: center, middle
 - Software interests include: open-source software, QGIS, user-generated data, Leaflet, OpenStreetMap, R, JavaScript, SQL
 - Hobbies: Woodworking, board games (Terraforming Mars, Catan, Carcassonne), Photography, messing around with attempting to play guitar, harmonica and most recently an old accordion …
 
----   
+---
+        
 ## Daily Journal of things learned or created
 Over the course of the DSPG summer program I have worked on a variety of things each day. This slide deck includes a summary of those things.
 
-### Week 1
+---
+        
+## Week 1
+
+
+---
+        
 I learned how to manage Data Camp teams and review assessments!
 Starting off my R skills clearly need improvement
-      I scored X on R Visulizations
-
----    
-### Week 1     
+I scored X on R Visulizations
+        
 This R script uses TidyCensus to retrive the variable P013001 (Median age!!Both sexes) from the sf1 file of the 2010 decennial. This data is then plotted to show the median age for each county in Wyoming. I first tried to use Iowa but needed to modify GGPLOT to allow for 99 counties so I defaulted to Wyoming since it has fewer counties! The original code is available at https://walker-data.com/tidycensus/articles/basic-usage.html
 
+---
+        
 ```
 library(tidycensus)
 library(tidyverse)
@@ -68,7 +75,9 @@ age10 %>%
   ggplot(aes(x = value, y = reorder(NAME, value))) + 
   geom_point()
 ```
----    
+
+--- 
+        
 ![Wyoming Median Age](images/wyomingCountyMedianAge2010.png)
 
 ---    
@@ -77,7 +86,10 @@ To make the exported plot taller, I simply told it to be 1000 px tall in the dia
 ![Iowa Median Age](images/iowaCountyMedianAge2010.png)
 
 ---
-### Week 2
+        
+## Week 2
+
+---
 some more fun stuff
 
       
