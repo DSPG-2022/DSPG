@@ -15,6 +15,7 @@ Over the course of the DSPG summer program I have worked on a variety of things 
 
 ### Week 1
 I learned how to manage Data Camp teams and review assessments!
+Starting off my R skills clearly need improvement, I scored ......
 
 This R script uses TidyCensus to retrive the variable P013001 (Median age!!Both sexes) from the sf1 file of the 2010 decennial. This data is then plotted to show the median age for each county in Wyoming. I first tried to use Iowa but needed to modify GGPLOT to allow for 99 counties so I defaulted to Wyoming since it has fewer counties! The original code is available at https://walker-data.com/tidycensus/articles/basic-usage.html
 
@@ -40,7 +41,7 @@ age10 %>%
 
 To make the exported plot taller, I simply told it to be 1000 px tall in the dialog when I manually saved it. However this could also be done programmatically in the R code to save out the file.
 
-To make ggplot make the plot taller.
 ![Iowa Median Age](images/iowaCountyMedianAge2010.png)
 
 ### Week 2
+some more fun stuff
