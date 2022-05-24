@@ -14,10 +14,22 @@
 Over the course of the DSPG summer program I have worked on a variety of things each day. Following is a summary.
 
 ### Week 1
-
-Managing Data Camp Teams and reviewing assessments
+I learned how to manage Data Camp teams and review assessments!
 
 This R script will create a plot showing median age for wach county in Wyoming. I first tried to use Iowa but need to modify GGPLOT to allow for 99 counties!
+
+```
+age10 <- get_decennial(geography = "county",
+  state = "WY",
+  variables = "P013001",
+  year = 2010)
+
+head(age10)
+
+age10 %>%
+  ggplot(aes(x = value, y = reorder(NAME, value))) + 
+  geom_point()
+```
 
 ![alt text here](images/wyomingCountyMedianAge2010.png)
 
