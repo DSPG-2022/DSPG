@@ -2,7 +2,7 @@
 # Joel Martin's DSPG Journal 2022
 
 ## Profile
-<img src="images/tempProfile.jpg" align="right"/>
+<img src="images/tempProfile.jpg" align="right" width="200px"/>
 - Originally from Ohio
 - Education:
 	- Attended Columbus State Community College (CSCC)
