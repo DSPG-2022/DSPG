@@ -46,6 +46,6 @@
 
 ## Day 4 Learning Output
 
-- Just some trying with plotting tidycensus results (not successful really but learned more commands!)
+- plotting tidycensus results (not successful really but learned more commands!)
 - GitHub new coding skills
 
