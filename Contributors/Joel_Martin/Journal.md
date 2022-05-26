@@ -3,13 +3,16 @@
 
 ## Profile
 <img src="images/tempProfile.jpg" align="right" width="200px"/>
+
 - Originally from Ohio
+
 - Education:
 	- Attended Columbus State Community College (CSCC)
 	- Transferred to online Western Governors University (WGU)
 		- Obtained CompTIA A+ and Network+ certifications
 	- Transferred to Iowa State University (ISU)
 		- Data Science undergraduate with an emphasis in big data
+
 - Work Experience:
 	- Target Corporation - Presentation, Salesfloor, Guest Service
 	- Data Science for the Public Good 2022
