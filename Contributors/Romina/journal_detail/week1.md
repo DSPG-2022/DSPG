@@ -39,7 +39,9 @@
 
 - [x] Literature review links for community visioning project
 - [x] Learn more about data visualization in R
-- [ ] R: Tidycensus and Tidyverse (watch at least section 1 and 2)
+- [x] R: Tidycensus and Tidyverse (first section)
+- [ ] R: Tidycensus and Tidyverse (second section)
+- [ ] R: Tidycensus and Tidyverse (housing project source)
 - [x] Census Question to be answered with tidycensus 
 
 ## Day 4 Learning Output
