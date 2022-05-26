@@ -33,9 +33,9 @@ One activity we did this week was, given a data set, to create some sort of insi
 We were given an M&M's dataset containing the counts of the number of M&M type bags and overall color counts from two variety bags of M&Ms. 
 Using a PivotTable in Excel I created the following graphs showing the data in a bar graph and the calculated percentages for each category.
 
-![M&M Graph](images/MandMGraph1.jpeg)
+![M&M Graph](images/MandMGraph1.jpg)
 
-![M&M Graph](images/MandMGraph2.jpeg)
+![M&M Graph](images/MandMGraph2.jpg)
 
 Another topic I learned about through Data Camp, watching, and reading information from Kyle Walker, was tidycensus.
 tidycensus is a package in R that Kyle Walker built to make the U.S. census data easier to use.
