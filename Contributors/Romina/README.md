@@ -24,4 +24,4 @@ Teaching Assistant of Housing Policy
 - SketchUp
 - Photoshop
 ### **Other Experiences**
-Project advisor and idea developer at [ShahrAndishan Urban Planning Consultant Company]([url](https://shahrandishan.ir/))
+Project advisor and idea developer at [Link to ShahrAndishan Urban Planning Consultant Company](https://shahrandishan.ir/)
