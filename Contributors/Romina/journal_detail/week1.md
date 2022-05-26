@@ -12,6 +12,8 @@
 - Review of R basics and learning some new commands.
 
 ## Day 2
+5/24/2022
+
 - [x] Finish GitHub Course
 - [x] Continue DataCamp tutorials
 
@@ -22,6 +24,8 @@
 - GitHub Basics
 
 ## Day 3
+5/25/2022
+
 - [x] Team Leaders Meeting
 - [x] Learn more about data visualization in R
 - [x] R challenge
@@ -31,6 +35,8 @@
 - Learning new R commands of visualization : ggmap
 
 ## Day 4
+5/26/2022
+
 - [x] Literature review links for community visioning project
 - [x] Learn more about data visualization in R
 - [x] R: Tidycensus and Tidyverse
