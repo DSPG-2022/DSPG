@@ -2,6 +2,7 @@
 # Joel Martin's DSPG Journal 2022
 
 ## Profile
+<img src="images/tempProfile.jpg" align="right"/>
 - Originally from Ohio
 - Education:
 	- Attended Columbus State Community College (CSCC)
@@ -17,6 +18,8 @@
 	- Hiking (Primarily at Walnut Woods and Brown's Woods)
 	- Skateboarding
 	- Gaming (Satisfactory, Overwatch)
+
+<br clear="right"/>
 
 ## Weekly Journal
 The following is a brief summary of things I learned or accomplished each week during the DSPG 2022 program.
