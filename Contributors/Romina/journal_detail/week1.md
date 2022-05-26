@@ -46,6 +46,6 @@
 
 ## Day 4 Learning Output
 
-- plotting tidycensus results (not successful really but learned more commands!)
+- plotting tidycensus results: I learned how to get interactive maps with mapview command. Made one for [Story County](file:///C:/Users/romin/Documents/DSPG/Romina/storyinteractivemap.html)
 - GitHub new coding skills
 
