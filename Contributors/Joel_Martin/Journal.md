@@ -12,6 +12,7 @@
 		- Obtained CompTIA A+ and Network+ certifications
 	- Transferred to Iowa State University (ISU)
 		- Data Science undergraduate with an emphasis in big data
+		- Anticipated graduation date: Fall 2022
 
 - Work Experience:
 	- Target Corporation - Presentation, Salesfloor, Guest Service
