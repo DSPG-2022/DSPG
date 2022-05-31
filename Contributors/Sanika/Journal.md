@@ -23,6 +23,6 @@
 ### Takeaways
 *	Learned and practiced about new functions in ggplot2
 
-![alt text] ![image](https://user-images.githubusercontent.com/98909268/171273553-32c8c5cf-6af9-4dab-8d9a-e2dd5e2f8d0d.png)
+![image](https://user-images.githubusercontent.com/98909268/171273553-32c8c5cf-6af9-4dab-8d9a-e2dd5e2f8d0d.png)
 
-![alt text] ![image](https://user-images.githubusercontent.com/98909268/171273599-b21cb592-ff9b-46b0-983b-33d020483394.png)
+![image](https://user-images.githubusercontent.com/98909268/171273599-b21cb592-ff9b-46b0-983b-33d020483394.png)
