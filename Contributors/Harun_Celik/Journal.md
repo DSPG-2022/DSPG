@@ -2,7 +2,7 @@
 
 [Week I](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Harun_Celik/Week_one.md)
 
-[Week II](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Harun_Celik/Week_one.md)
+[Week II](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Harun_Celik/Week_two.md)
 
 [Week III](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Harun_Celik/Week_one.md)
 
