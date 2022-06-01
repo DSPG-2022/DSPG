@@ -3,10 +3,10 @@
 ## Tasks
 - [x] Download R, Github Desktop, Tableau and other necessary programs
 - [x] Finish DataCamp Assessments
-- [ ] Choose application/tool for team management
+- [x] Choose application/tool for team management
 - [x] Finish DataCamp tutorials around tidyverse fundamentals in R
 - [x] Finish DataCamp tutorials around different import and clean fundamentals in R  
-- [ ] Conduct preliminary research on project data/literature review
+- [x] Conduct preliminary research on project data/literature review
 
 ## What I've learned
 
@@ -20,4 +20,7 @@
         2. ```Tidyverse``` functions like:
             1. ```case_when(), mutate_if(), gather(), str_remove()```
         3. ```ggpplot2``` tricks like:
-            1. ```scales::percemt_format(), labs(), axis.text.x```
+            1. ```scales::percent_format(), labs(), axis.text.x```
+    4. Started courses on the usage of the ```tidycensus``` package for census data manipulation in R.
+        1. Learned to work specifically with functions like:
+            1.  ```get_acs, get_decennial, moe_sum(), moe_product(), moe_ratio(), moe_prop()```
