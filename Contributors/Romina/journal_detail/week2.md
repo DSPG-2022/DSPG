@@ -11,4 +11,5 @@
 - [x] Meeting at 4pm: final meeting of the day and results of the day 
 
 ### Day 1 Output
-
+Folks learned about project and housing issues.
+Some data is gathered in box.
