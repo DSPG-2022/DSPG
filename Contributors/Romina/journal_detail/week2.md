@@ -7,8 +7,8 @@
 - [x] Meeting at 10am. Group meeting, Q&A for project proposal 
 - [x] Organize box
 - [ ] Make a spreadsheet of keywords with definition and links
-- [ ] Meeting at 1pm: Group meeting, Group check of findings & answering some housing issues questions.
-- [ ] Meeting at 4pm: final meeting of the day and results of the day 
+- [x] Meeting at 1pm: Group meeting, Group check of findings & answering some housing issues questions.
+- [x] Meeting at 4pm: final meeting of the day and results of the day 
 
 ### Day 1 Output
 
