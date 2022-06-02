@@ -2,7 +2,7 @@
 
 ## Tasks
 - [x] Create daily tasks and objectives to be shared with the team.
-- [ ] Finish DataCamp tutorials around tidycensus fundamentals in R
+- [x] Finish DataCamp tutorials around tidycensus fundamentals in R
 - [ ] Finish DataCamp tutorials around Web data manipulation and API operations in R
 - [ ] Find and complete tutorials on data handling and pipelining with Tableau 
 - [x] Conduct preliminary research on project data/literature review for DHR and AgMRC projects
