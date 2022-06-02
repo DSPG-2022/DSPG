@@ -5,7 +5,10 @@
 - [ ] Finish DataCamp tutorials around tidycensus fundamentals in R
 - [ ] Finish DataCamp tutorials around Web data manipulation and API operations in R
 - [ ] Find and complete tutorials on data handling and pipelining with Tableau 
-- [ ] Conduct preliminary research on project data/literature review for DHR and AgMRC projects
+- [x] Conduct preliminary research on project data/literature review for DHR and AgMRC projects
+- [ ] Compile a report of the preliminary research conducted for DHR
+- [ ] Compile a report of the preliminary research conducted for DHR
+
 
 ## What I've learned
 
@@ -13,6 +16,7 @@
     1. As the DHR Disabilities in Iowa project will focus on the use of data from the census bureau, I continued my training in learning ```tidycensus, tigris``` and ```sf``` libraries.
         1. Particularly focusing on producing these lines of code:
 
+<details><summary>
 #Imported Libararies        
 ```
 library(tidycensus)
@@ -166,3 +170,44 @@ state_value <- get_acs(geography = "state",
 # Plot the dataset to view the shifted geometry
 plot(state_value["estimate"])
 ```
+#Using ggplot2 to map demographic data
+```{r}
+ggplot(state_value, aes(fill = estimate, color = estimate)) + 
+  geom_sf() + 
+  scale_fill_viridis_c(labels = scales::dollar) +  
+  scale_color_viridis_c(guide = FALSE) + 
+  theme_minimal() + 
+  coord_sf(crs = 26911, datum = NA) + 
+  labs(title = "Median owner-occupied housing value by Census tract", 
+       subtitle = "Nationwide", 
+       caption = "Data source: 2012-2016 ACS.\nData acquired with the R tidycensus package.", 
+       fill = "ACS estimate")
+```
+
+Using "st_centroid" to create graduated visualizations in R
+```{r}
+# Generate point centers
+centers <- st_centroid(state_value)
+
+# Set size parameter and the size range
+ggplot() + 
+  geom_sf(data = state_value, fill = "white") + 
+  geom_sf(data = centers, aes(size = estimate), shape = 21, 
+          fill = "lightblue", alpha = 0.7, show.legend = "point") + 
+  scale_size_continuous(range = c(1, 20))
+```
+
+#Using "mapview()" for easy interactive maps
+```{r}
+state_value_nshift <- get_acs(geography = "state", 
+                       variables = "B25077_001", 
+                       year = 2020, 
+                       geometry = TRUE, 
+                       shift_geo = FALSE)
+
+m <- mapview(state_value_nshift, 
+         zcol = "estimate", 
+         legend = TRUE)
+m@map
+```
+</summary>
