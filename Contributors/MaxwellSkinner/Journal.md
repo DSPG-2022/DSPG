@@ -1,31 +1,23 @@
 ---
 title: "Journal"
 author: "Maxwell Skinner"
-output: html_document
+output:
+  html_document: 
+    toc: true
+    theme: united
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Journal
-
 
 ## Week 2
 
 
-### Day 2
+### Day 1
 
-Started work on the AIIRA Wholesale Local Food Benchmarking Project. The day's primary focus was to work with Experimented and began work with the gtrendsR package for the first time. Created an interest over time chart of multiple keywords of agricultural commodities, including items like strawberries, peppers, cucumbers, and similar products. Some sample work is shown below:
+Started work on the AIIRA Wholesale Local Food Benchmarking Project. The day's primary focus was to experiment and begin work with the gtrendsR package. Created an interest over time chart of multiple keywords of agricultural commodities, including items like strawberries, peppers, cucumbers, and similar products. Some sample work is shown below:
 
 ```{r}
 library(gtrendsR)
 library(tidyverse)
 library(ggthemes)
-##Find country's geocode
-country = gtrendsR::countries
-head(country)
-
 
 output = gtrendsR::gtrends(keyword = c("strawberries", "peppers", "cucumbers", "sweet corn", "melons"), 
                             geo = "US-IA", time = "today+5-y", 
@@ -51,15 +43,11 @@ df = output %>%
 plot(output)
 ```
 
-```{r fig.cap = Interest Over Time Line Chart of the Past 5 Years""}
-plot(output)
-```
-
 
 
 Worked later in the afternoon on further visualizations with the gtrends and additionally the trendecon package. One visualization being the number of hits the keyword "strawberries" has for the past 10 years. Visualization of that is shown below:
 
-```{r fig.cap = U.S. nationwide heat map of the keyword "strawberries"}
+```{r}
 res <- gtrends("strawberries",
                geo = "US",
                time = "all")
@@ -81,5 +69,13 @@ ggplot() +
            aes(fill = hits, map_id = region),
            color="#ffffff", size=0.15)
 ```
+
+
+### Day 2
+
+
+
+
+
 
 
