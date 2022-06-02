@@ -2,7 +2,7 @@
 
 ## Tasks
 - [x] Create daily tasks and objectives to be shared with the team.
-- [x] Finish DataCamp tutorials around tidycensus fundamentals in R
+- [ ] Finish DataCamp tutorials around tidycensus fundamentals in R
 - [ ] Finish DataCamp tutorials around Web data manipulation and API operations in R
 - [ ] Find and complete tutorials on data handling and pipelining with Tableau 
 - [x] Conduct preliminary research on project data/literature review for DHR and AgMRC projects
@@ -16,7 +16,8 @@
     1. As the DHR Disabilities in Iowa project will focus on the use of data from the census bureau, I continued my training in learning ```tidycensus, tigris``` and ```sf``` libraries.
         <details><summary>Click here for examples of practice codes:</summary>
           #Imported Libraries        
-          ```
+          
+          ```{r}
           library(tidycensus)
           library(tigris)
           library(tidyverse)
