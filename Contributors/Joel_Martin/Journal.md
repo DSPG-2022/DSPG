@@ -82,6 +82,6 @@ Another thing I learned more about this week was Tableau through DataCamp. Table
 
 While working on the AgMRC Interactive Commodity Reports team I used Tableau to create graphs representing different commodities we are interested in.
 
-![Beef Graph](images/Beef_Graph.jpg)
+![Beef Graph](images/Beef_Graph.PNG)
 
-![Egg Graph](images/Egg_Graph.jpg)
+![Egg Graph](images/Egg_Graph.PNG)
