@@ -14,7 +14,7 @@
 
 - **R**
     1. As the DHR Disabilities in Iowa project will focus on the use of data from the census bureau, I continued my training in learning ```tidycensus, tigris``` and ```sf``` libraries.
-      1. <details><summary>Click here for examples of practice codes:</summary>
+        <details><summary>Click here for examples of practice codes:</summary>
           #Imported Libraries        
           ```
           library(tidycensus)
@@ -211,8 +211,8 @@
           ```
           </details>
         2. An important part of data collection for the Farmer's Market Assets project will be to work with web APIs. For this reason, I started the "Working With Web Data in R" Course.
-          1. <details><summary>Click here for examples of practice codes:</summary>
-
+          <details><summary>Click here for examples of practice codes:</summary>
+          
           </details>
 
 
