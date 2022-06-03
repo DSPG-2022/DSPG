@@ -211,9 +211,10 @@
           m@map
           ```
           </details>
-        2. An important part of data collection for the Farmer's Market Assets project will be to work with web APIs. For this reason, I started the "Working With Web Data in R" Course.
+    2. An important part of data collection for the Farmer's Market Assets project will be to work with web APIs. For this reason, I started the "Working With Web Data in R" Course.
           <details><summary>Click here for examples of practice codes:</summary>
           
           </details>
+    3. Worked to create maps for the Census Exercise. Wrote code in R to show the diversity of race in Illinois and South Dakota and the imparity between Male and Female populations for both states. The code in HTML format can be found here
 
 
