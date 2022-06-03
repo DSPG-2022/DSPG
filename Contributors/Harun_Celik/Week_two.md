@@ -215,6 +215,6 @@
           <details><summary>Click here for examples of practice codes:</summary>
           
           </details>
-    3. Worked to create maps for the Census Exercise. Wrote code in R to show the diversity of race in Illinois and South Dakota and the imparity between Male and Female populations for both states. The code in HTML format can be found here
+    3. Worked to create maps for the Census Exercise. Wrote code in R to show the diversity of race in Illinois and South Dakota and the imparity between Male and Female populations for both states. The code in HTML format can be found [here](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Harun_Celik/HarunScriptCensusAssignment.html)
 
 
