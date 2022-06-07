@@ -97,15 +97,17 @@ https://iastate.box.com/s/qkjbwmb35xfeon4bh4pjtrmpy1mugftp
 4. Discuss what the final product of this project might be exactly
 
 ###### Team Tasks
-Idris, Muhammad Nabil Arif : Please create an excel with all the data sources and the information/columns like Price or quantity or year              
-Skinner, Maxwell M : you can work on creating the graphs for 5 commodities with YOY (2016-21) and can analyze the trends/peaks                     
-Hussain, Nayha [COMXT] : You can work on getting data from Twitter API/Facebook Marketplace for any commodity
+*Idris, Muhammad Nabil Arif : Please create an excel with all the data sources and the information/columns like Price or quantity or year              
+*Skinner, Maxwell M : you can work on creating the graphs for 5 commodities with YOY (2016-21) and can analyze the trends/peaks                     
+*Hussain, Nayha [COMXT] : You can work on getting data from Twitter API/Facebook Marketplace for any commodity
 
 
 ###### Team Results
-Maxwell : To put all the downloaded maps of trend analysis for 5 commodities YOY in the same folder and the script starting with the line 184 in a new R file. 
-Nabil : To put the links of the dashboard for example top 10 commodities search and the helpful data sources in the same excel file. 
-Nayha : To put the code in the same folder.
+*Maxwell : To put all the downloaded maps of trend analysis for 5 commodities YOY in the same folder and the script starting with the line 184 in a new R file. 
+
+*Nabil : To put the links of the dashboard for example top 10 commodities search and the helpful data sources in the same excel file. 
+
+*Nayha : To put the code in the same folder.
 ###### Outcomes
 1. Year decided for analysis: 2016-2021
 2. Region decided for analysis: Global Vs Mid-West (The Midwest Area consists of ARS programs in 9 states -- Kentucky, Illinois, Indiana, Ohio, Iowa, Missouri, Michigan, Minnesota, and Wisconsin. Research is conducted by over 340 scientists and their respective support staff at 12 locations and 2 large Centers. The ARS locations are: Bowling Green, KY; Lexington, KY; West Lafayette, IN; Columbus, OH; Wooster, OH; Urbana, IL; Columbia, MO; Ames, IA; East Lansing, MI; St. Paul, MN; Morris, MN; Madison, WI; National Animal Disease Center, Ames, IA; and National Center for Agricultural Utilization Research, Peoria, IL.)
@@ -113,9 +115,18 @@ Nayha : To put the code in the same folder.
 ###### Future work
 1. Pick top 10 commodities for analysis 
 2. Fix few data sources to start the work
-3. Find out what data sources are used by USDA dashboards and can we pullit via API
+3. Find out what data sources are used by USDA dashboards and can we pull it via API
 
 #### Tuesday - 6/7/2022
+##### *B-Day ( Day 2) - AgMRC Coomodities
+Team started working on creating tableau visualisation from past work
+###### Team Tasks
+All : Started creating a tableau report similar to the past work done. So basically learning to pull data from USDA (https://quickstats.nass.usda.gov/) and putting it in tableau to create some visualisations.
+
+###### Team Results
+###### Outcomes
+###### Future work
+
 #### Wednesday - 6/8/2022
 #### Thursday - 6/9/2022
 #### Friday - 6/10/2022
