@@ -8,6 +8,28 @@ Iowa State University(May 2023)
 Maters of CS
 
 # Projects
+## Local Foods
+The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There is a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces.
+1. Narrowing down the exact products that will be selected for inclusion in the initial market 
+(It is currently anticipated that key products may include strawberries, peppers, cucumbers, sweet corn, melons and apples (rhubarb, honey, preserves, eggs, greens etc. might be current products being sold). If appropriate, this list may also include nuts, mushrooms and hydroponic greens or possibly dairy (local creameries, not AE)
+2. Discuss and identify possible data sources. several potential sources for collecting information have already been identified as preliminary sources. Many of these programs are already program partners with the FEED team. 
+3. Investigate the possibility of scraping data about local food prices and availability from social media, e-commerce websites or similar sources (specifically around wholesale distribution)
+ -- Use Google Trends to identify other potential key products by terms being searched for. Potential for geographic scope of searches. 
+-- Explore options for similar searches on Twitter or Facebook (Facebook marketplace) using appropriate API’s
+-- Local food market place, 
+4. Compare the values of the collected data with that provided by the USDA to determine if this process of collecting local data has the potential to better help producers with their decision making. – This might be done in collaboration with data being collected by the other AgMRC commodities DSPG team.
+5. Collect data and develop a public interface as a dashboard showcasing the market benchmarks as a series of interactive visuals.
+6. Identify potential aspects of the project that could be automated for future data collection and continual benchmarking
+7. Investigate and/or demonstrate potential use of AI to help identify impacts to local food markets. For example, weather impacts. Alternatively utilize AI to monitor where there are potential shortages or surpluses of a product in a geographic area.
+
+
+### Team Work:
+Maxwell M Skinner : https://iastate.box.com/s/b2aw9j6hlc2sbfmlrur0eolghafruhpa
+
+Muhammad Nabil Arif Idris : https://iastate.box.com/s/b4xullbybuy42ujd092vtmrrj80yxyae
+
+Nayha Hussain: https://iastate.box.com/s/cn7zl8q3cvgf6dke22dl7rco74uot1a2
+## AgMRC Commodities
 
 ## Week_1
 
