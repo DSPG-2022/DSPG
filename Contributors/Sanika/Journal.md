@@ -1,3 +1,4 @@
+# Week 1
 # Sanika Gokakkar – DSPG 2022 Journaling
 ## Week 1
 ### Day 1 (05/23/2022)
@@ -37,6 +38,3 @@
 ### Takeaways
 * Learned new features and functions in Tidycensus
 * Into to Using Tidymaps
-
-### Day 5 (05/31/2022)
-* Started Intro to Tableau in Data Camp
