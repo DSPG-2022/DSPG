@@ -51,6 +51,21 @@ https://www.ams.usda.gov/market-news/fruit-and-vegetable-shipping-point-market-p
 
 
 #### Thursday - 6/2/2022
+
+##### *B-Day ( Day 1) - AgMRC Coomodities
+1. Project Overview
+2. Team started with installing tableau and reviewing past work
+3. :•Commodity Reports: https://indicators.extension.iastate.edu/projects/CommodityReport/•Tableau Dashboards complete from DS401 -https://prod-useast-b.online.tableau.com/#/site/isueoced/projects/258461?:origin=card_share_link•MAX DS401 Students work: https://prod-useast-b.online.tableau.com/t/isueoced/views/CranberryBook/content?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+
+###### Team Tasks
+All : Started creating a tableau report similar to the past work done. So basically learning to pull data from USDA (https://quickstats.nass.usda.gov/) and putting it in tableau to create some visualisations.
+
+###### Team Results
+1. We can only pull 50,000 records at a time so we have to pull YOY data separately. 
+2. Resolved the errors in setting up tableau and data sources.
+
+
+
 #### Friday - 6/3/2022
 Assigned Exercise: Worked in A-Day team groups prepare a 10-minute visual presentation that profiles and compares / contrasts –Nebraska & Wisconsin
 
@@ -62,25 +77,6 @@ Educational Attainment (HS Grad, Bachelor)
 *Population EstimatesoNumber of Housing Units (percent vacant households)oUnemployment rate
 *% Inlabor force and the % not in labor force
 *Primary occupations by numbero*Top agricultural products
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
