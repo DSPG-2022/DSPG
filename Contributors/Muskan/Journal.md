@@ -1,14 +1,14 @@
 
-# MUSKAN TANTIA
+# Introduction 
+![image](https://user-images.githubusercontent.com/17107300/172431781-25999113-e575-4a9f-bd9f-aeb1b3b9f8a7.png)
+![image](https://user-images.githubusercontent.com/17107300/172431178-c936be96-2a1d-48f8-800f-fe3fefe633bc.png)
 
-#### WiDS Ambassador 2022 | Women in STEM Chair – Computer Science Graduate Student Organization 
-Data Scientist with 5+ years of professional experience in hands-on Data Science roles. Strong expertise in statistical and quantitative analysis with various machine learning techniques. My ultimate career goal is to help improve the quality of life using my Data Science knowledge.
-## Education:
-Iowa State University(May 2023)
-Maters of CS
+
+![image](https://user-images.githubusercontent.com/17107300/172430896-abf80138-71c6-456e-aafd-e53fc7c0d7ba.png)
+
 
 # Projects
-## Local Foods
+### 1. Local Foods
 The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There is a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces.
 1. Narrowing down the exact products that will be selected for inclusion in the initial market 
 (It is currently anticipated that key products may include strawberries, peppers, cucumbers, sweet corn, melons and apples (rhubarb, honey, preserves, eggs, greens etc. might be current products being sold). If appropriate, this list may also include nuts, mushrooms and hydroponic greens or possibly dairy (local creameries, not AE)
@@ -23,14 +23,34 @@ The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked f
 7. Investigate and/or demonstrate potential use of AI to help identify impacts to local food markets. For example, weather impacts. Alternatively utilize AI to monitor where there are potential shortages or surpluses of a product in a geographic area.
 
 
-### Team Work:
+#### Team Work:
 Maxwell M Skinner : https://iastate.box.com/s/b2aw9j6hlc2sbfmlrur0eolghafruhpa
 
 Muhammad Nabil Arif Idris : https://iastate.box.com/s/b4xullbybuy42ujd092vtmrrj80yxyae
 
 Nayha Hussain: https://iastate.box.com/s/cn7zl8q3cvgf6dke22dl7rco74uot1a2
-## AgMRC Commodities
 
+
+### 2. AgMRC Commodities
+AGMRC Commodity reports can be used as preliminary research in determining current production, market analysis, demographic data and price points. It can be useful in applying for a wide variety of grant funding, financial institutional loans, etc. The customizable marketing studies provide Value Added Producer Grant (VAPG) applicants with market intelligence that can easily be incorporated into feasibility studies and business plans that support the application process. 
+
+1.Creation of two new interactive commodity reports (Beef and Poultry/Eggs)by utilizing Tableau
+2.Expand on the dashboard templates developed by DS401 Students and on Indicators website.
+3.Reports to include demographics page (population, race, ethnicity, family structure, income) and food data(food deserts, food security, types ofmarkets –schools, restaurants)
+4.Developing better geographic filters to include national, state, potentially county level. 
+5.Standardization of all the reports in terms on generation, colors,and style. 
+6.Creating a data repository for data sources with accompanying data visualizations.
+7.Integrate with Market maker to include the map of producers and think of other ways to utilize the data provided.
+
+#### Team Work:
+Joel Martin : https://iastate.box.com/s/bokoy6x3rzrclwd5jnn26sundioury8r
+
+Maxwell M Skinner : https://iastate.box.com/s/gisryoflzonb0eviqhxk34dri0mnkfx6
+
+Tanishq Jain : https://iastate.box.com/s/rjo0ix5lxmae18q819y58z8scjl9kzgt
+
+
+# Weekly Pogress Journal
 ## Week_1
 
 #### Monday - 5/23/2022
