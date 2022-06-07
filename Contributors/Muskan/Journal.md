@@ -160,7 +160,7 @@ https://iastate.box.com/s/qkjbwmb35xfeon4bh4pjtrmpy1mugftp
 3. Find out what data sources are used by USDA dashboards and can we pull it via API
 
 #### Tuesday - 6/7/2022
-##### *B-Day ( Day 2) - AgMRC Coomodities
+##### *B-Day ( Day 2) - AgMRC Commodities
 Team started working on creating tableau visualisation from past work
 ###### Team Tasks
 All : Started creating a tableau report similar to the past work done. So basically learning to pull data from USDA (https://quickstats.nass.usda.gov/) and putting it in tableau to create some visualisations.
