@@ -78,4 +78,75 @@ ggplot() +
 
 
 
+## Week 3
+
+### Day 1 (A Day)
+
+Focused on visualizations with the gtrends package. Generated visualizations with multiple keywords over a period of multiple years. Was able to extract general trends, as well as unique times like the year 2020, which had a unique search pattern compared to other years. 
+
+```
+library(gtrendsR)
+library(tidyverse)
+library(ggthemes)
+library(ggplot2)
+library(dplyr)
+library(trendecon)
+
+iowa1 = ts_gtrends(keyword = c("strawberries", "peppers", "cucumbers", "sweet corn", "melons"), 
+                           geo = "US-IA", time = "2016-01-01 2021-12-30")
+
+iowa2 = ts_gtrends(keyword = c("apples", "rhubarb", "honey", "preserves", "eggs"), 
+                          geo = "US-IA", time = "2016-01-01 2021-12-30")
+
+iowa3 = ts_gtrends(keyword = c("greens", "dairy products"), 
+                          geo = "US-IA", time = "2016-01-01 2021-12-30")
+
+
+gtrends_plot = ggplot() +
+  geom_line(data = iowa1, aes(x = time, y = value, color = id)) + 
+  geom_line(data = iowa2, aes(x = time, y = value, color = id)) + 
+  geom_line(data = iowa3, aes(x = time, y = value, color = id)) + 
+  facet_wrap(facets = vars(id)) +
+  ggtitle("Google Trends of Agricultural Commodities in Iowa 2016 - 2021") + 
+  labs (y = "View Scale", x = "Dates")
+
+gtrends_plot
+```
+
+In addition, combined 5 specific keywords to one chart, and created a filter to be able to show just 1 keyword over multiple years, or multiple keywords for 1 year. Helped analyze the trends of word keyword over multiple years. 
+
+```
+library(gtrendsR)
+library(tidyverse)
+library(ggthemes)
+
+output = gtrends(keyword = c("strawberries", "peppers", "cucumbers", "sweet corn", "melons"),
+                 geo = c("US-KY","US-IA","US-IL","US-IN","US-MO"),
+                 time ="2016-01-01 2021-12-31")
+
+hitss = output$interest_over_time
+hitss$year = format(as.Date(hitss$date, format="%Y-%m-%d"),"%Y")
+hitss$month = format(as.Date(hitss$date, format="%Y-%m-%d"),"%m")
+
+
+hitss %>% filter(keyword == "peppers") %>% ggplot(aes((month), hits,
+                                                      group=factor(year),
+                                                      colour=factor(year))) +
+  geom_line() +
+  geom_point() +
+  labs(x="Month", colour="Year") +
+  theme_classic()+
+  labs(title="Peppers")
+
+
+hitss %>% filter(year == "2016") %>% ggplot(aes((month), hits,
+                                                     group=factor(keyword),
+                                                     colour=factor(keyword))) +
+  geom_line() +
+  geom_point() +
+  labs(x="Month", colour="Keywords") +
+  theme_classic()+
+  labs(title="2016")
+  ```
+
 
