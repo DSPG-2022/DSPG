@@ -52,6 +52,7 @@ https://www.ams.usda.gov/market-news/fruit-and-vegetable-shipping-point-market-p
 
 #### Thursday - 6/2/2022
 
+
 ##### *B-Day ( Day 1) - AgMRC Coomodities
 1. Project Overview
 2. Team started with installing tableau and reviewing past work
@@ -72,28 +73,48 @@ All : Started creating a tableau report similar to the past work done. So basica
 
 
 #### Friday - 6/3/2022
-Assigned Exercise: Worked in A-Day team groups prepare a 10-minute visual presentation that profiles and compares / contrasts –Nebraska & Wisconsin
+Assigned Exercise: Worked in A-Day team groups prepare a 10-minute visual presentation that profiles and compares / contrasts –Nebraska & Wisconsin on basis of 
+1. Educational Attainment (HS Grad, Bachelor)
+2. *Income (Median Household, Median Family, and Per capita)
+3. *% Belowpoverty level
+4. *Age demographics 
+5. *Race demographics
+6. *Population EstimatesoNumber of Housing Units (percent vacant households)oUnemployment rate
+7. *% Inlabor force and the % not in labor force
+8. *Primary occupations by numbero*Top agricultural products
+###### Team Results
 
-Educational Attainment (HS Grad, Bachelor)
-*Income (Median Household, Median Family, and Per capita)
-*% Belowpoverty level
-*Age demographics 
-*Race demographics
-*Population EstimatesoNumber of Housing Units (percent vacant households)oUnemployment rate
-*% Inlabor force and the % not in labor force
-*Primary occupations by numbero*Top agricultural products
-
-
+https://iastate.box.com/s/qkjbwmb35xfeon4bh4pjtrmpy1mugftp
 
 
 
 ## Week_3
 #### Monday - 6/6/2022
+##### *A-Day ( Day 2) - Local Foods
 1. Complete work with Google Trends
 2. Look at Facebook API (Facebook market place), Craigslist API or Twitter to see if we can identify producers advertising their products on those platforms
 3. Discuss results from review of the websitesin the proposal
 4. Discuss what the final product of this project might be exactly
-5. 
+
+###### Team Tasks
+Idris, Muhammad Nabil Arif : Please create an excel with all the data sources and the information/columns like Price or quantity or year              
+Skinner, Maxwell M : you can work on creating the graphs for 5 commodities with YOY (2016-21) and can analyze the trends/peaks                     
+Hussain, Nayha [COMXT] : You can work on getting data from Twitter API/Facebook Marketplace for any commodity
+
+
+###### Team Results
+Maxwell : To put all the downloaded maps of trend analysis for 5 commodities YOY in the same folder and the script starting with the line 184 in a new R file. 
+Nabil : To put the links of the dashboard for example top 10 commodities search and the helpful data sources in the same excel file. 
+Nayha : To put the code in the same folder.
+###### Outcomes
+1. Year decided for analysis: 2016-2021
+2. Region decided for analysis: Global Vs Mid-West (The Midwest Area consists of ARS programs in 9 states -- Kentucky, Illinois, Indiana, Ohio, Iowa, Missouri, Michigan, Minnesota, and Wisconsin. Research is conducted by over 340 scientists and their respective support staff at 12 locations and 2 large Centers. The ARS locations are: Bowling Green, KY; Lexington, KY; West Lafayette, IN; Columbus, OH; Wooster, OH; Urbana, IL; Columbia, MO; Ames, IA; East Lansing, MI; St. Paul, MN; Morris, MN; Madison, WI; National Animal Disease Center, Ames, IA; and National Center for Agricultural Utilization Research, Peoria, IL.)
+(# "US-KY","US-IA","US-IL","US-IN","US-MO","US-MI","US-MN","US-WI","US-OH")
+###### Future work
+1. Pick top 10 commodities for analysis 
+2. Fix few data sources to start the work
+3. Find out what data sources are used by USDA dashboards and can we pullit via API
+
 #### Tuesday - 6/7/2022
 #### Wednesday - 6/8/2022
 #### Thursday - 6/9/2022
