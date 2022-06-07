@@ -8,6 +8,7 @@ Iowa State University(May 2023)
 Maters of CS
 
 # Projects
+
 ## Week_1
 
 #### Monday - 5/23/2022
@@ -26,11 +27,53 @@ Worked on Assignment: Analyzing 2020 Census Data with R and TidyCensus recorded 
 #### Friday - 5/27/2022
 HOLIDAY
 
+
 ## Week_2
-#### Tuesday - 6/7/2022
-#### Wednesday - 6/8/2022
-#### Thursday - 6/9/2022
-#### Friday - 6/10/2022
+#### Monday - 5/30/2022
+HOLIDAY
+#### Tuesday - 5/31/2022
+HOLIDAY
+#### Wednesday - 6/1/2022
+##### *A-Day ( Day 1) - Local Foods
+Review project overview and visit the listed websites. Using Google Trends and other social media (Facebook Marketplace), search to find any trends in the types of products searched for and determine if there are any geographic trends or specific products that are orhave been searched for. Recognize difference in direct to customers and consumer/wholesale sales. Record any prices found along with search criteria. There are several web resources for learning how to use Google Trends and GT with R. A few examples include:ohttps://www.youtube.com/watch?v=Oz6TLG9cUa0ohttps://cran.r-project.org/web/packages/gtrendsR/gtrendsR.pdfoDataScience+ Analyzing Google Trends Data in R https://datascienceplus.com/analyzing-google-trends-data-in-r/oR Bloggers: Analyse Google Trends Search Data in R using {gtrendsR} https://www.r-bloggers.com/2020/06/analyse-google-trends-search-data-in-r-using-gtrendsr/oFixing Google Trends Data Limitations https://towardsdatascience.com/trendecon-essential-r-package-to-construct-time-series-from-google-trends-36365ea48382oPackage ‘gtrendsR’  https://cran.r-project.org/web/packages/gtrendsR/gtrendsR.pdf
+
+###### Team Tasks
+Maxwell : To start with the Gtrends R code with 5 commodities. For the R code to calculate hits you can use the keywords like strawberries, peppers, cucumbers, sweet corn, melons and apples (rhubarb, honey, preserves, eggs, greens, dairy products)
+Nabil : To start exploring multiple data sources
+
+###### Team Results
+Maxwell: We can only compare 5 commodities at a time. "Pepper" was at the top for IA. Code in the team work box folder
+Nabil: Data sources found useful:
+https://www.bls.gov/cpi/data.htm
+https://www.ams.usda.gov/market-news/fruit-and-vegetable-shipping-point-market-price-reports
+
+
+#### Thursday - 6/2/2022
+#### Friday - 6/3/2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Week_3
 #### Monday - 6/6/2022
 1. Complete work with Google Trends
