@@ -166,9 +166,63 @@ Team started working on creating tableau visualisation from past work
 All : Started creating a tableau report similar to the past work done. So basically learning to pull data from USDA (https://quickstats.nass.usda.gov/) and putting it in tableau to create some visualisations.
 
 ###### Team Results
+Everone presented their graphs on Honey, Eggs. All good!
 ###### Outcomes
+1. Beef do not have county/state level data.....Rakesh to talk to the client to get this data or other option is to use the cattle data
+Number of Beef Cows by State
+
+The number of cattle in every state is a good indicator of how much beef each state produces. Seven states have over 1 million beef cows in 2021. The ten states with the highest number of beef cows are:
+
+
+	
+Texas - 4,685,000
+	
+Oklahoma - 2,189,000
+	
+Missouri - 2,035,000
+	
+Nebraska - 1,900,000
+	
+South Dakota - 1,799,000
+	
+Kansas - 1,447,000
+	
+Montana - 1,419,000
+	
+Kentucky - 983,000
+	
+North Dakota - 975,000
+	
+Florida - 929,000
 ###### Future work
+Continue with the dashboards and filters functionality
 
 #### Wednesday - 6/8/2022
+##### *A-Day ( Day 3) - Local Foods
+1. Complete work with Google Trends, generate graphs for next week meeting
+2. Look at Facebook API (Facebook market place), Craigslist API or Twitter to see if we can identify producers advertising their products on those platforms
+3. Discuss what the final product of this project might be exactly
+4. Get the data via API to automate it
+5. get the sales / weather data
+
+###### Team Tasks
+*Idris, Muhammad Nabil Arif : get the prices and no of stores for these 5 commodities by National, region and only Iowa              
+*Skinner, Maxwell M : plot the graphs for these commodities by National, region and only Iowa. YOY per product and all products for a single year                     
+*Hussain, Nayha [COMXT] : You can work on getting data from Twitter API/Facebook Marketplace for any commodity
+
+
+###### Team Results
+*Maxwell :  
+
+*Nabil : 
+
+*Nayha : 
+###### Outcomes
+1. Top 5 commodities to work on : Strawberries, Pepper, Cucumbers, Apples, Eggs
+2. Do the analysis by US-Region-IA
+###### Future work
+
+
+
 #### Thursday - 6/9/2022
 #### Friday - 6/10/2022
