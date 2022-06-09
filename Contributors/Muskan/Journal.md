@@ -212,11 +212,11 @@ Continue with the dashboards and filters functionality
 
 
 ###### Team Results
-*Maxwell :  
+*Maxwell :  Worked on graphs(not taking greenhouse vegetables)
 
-*Nabil : 
+*Nabil : API for the data is not available
 
-*Nayha : 
+*Nayha : Twitter API is not useful trying Facebook API 
 ###### Outcomes
 1. Top 5 commodities to work on : Strawberries, Pepper, Cucumbers, Apples, Eggs
 2. Do the analysis by US-Region-IA
@@ -224,5 +224,27 @@ Continue with the dashboards and filters functionality
 
 
 
-#### Thursday - 6/9/2022
+#### Thursday - 6/9/2022 A/B dat
+##### *A-Day till 12:00 PM ( Day 4) - Local Foods
+1. Complete work with Google Trends, generate graphs for next week meeting
+2. Look at Facebook API (Facebook market place), Craigslist API or Twitter to see if we can identify producers advertising their products on those platforms
+3. Discuss what the final product of this project might be exactly
+4. Get the data via API to automate it
+5. get the sales / weather data
+
+###### Team Tasks
+*Idris, Muhammad Nabil Arif : get filtered data for the graphs and see if you can add the low/high price. Also explore data sources with sales data             
+*Skinner, Maxwell M : Continue working on the graphs( YOY by commodity + all commodities by Year  )                     
+*Hussain, Nayha : Continue working on getting data from Facebook API
+
+
+###### Team Results
+*Maxwell :  
+
+*Nabil : 
+
+*Nayha : 
+##### *B-Day after 1:00 PM ( Day 3) - AgMRC Commodities
+
+
 #### Friday - 6/10/2022
