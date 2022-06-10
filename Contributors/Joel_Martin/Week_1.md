@@ -38,3 +38,5 @@ state_income <- get_acs(
 ```
 
 This returns Decatur as Iowa's 5th lowest median household income county from the 2020 ACS with a value of $48,154.
+
+[Continue to Week 3](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_2.md) - [Return to Journal Beginning](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Journal.md)

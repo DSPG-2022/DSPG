@@ -8,7 +8,7 @@ One main reoccuring topic I saw was lack of transportation options for the disab
 
 Another thing I learned more about this week was Tableau through DataCamp. Tableau is a program that allows you to import data from many different sources and easily create tables and graphs to better visualize data.
 
-While working on the AgMRC Interactive Commodity Reports team I used Tableau to create graphs representing different commodities we are interested in.
+While working on my B team, AgMRC Interactive Commodity Reports, I used Tableau to create graphs representing different commodities we are interested in.
 
 ![Beef Graph](images/Beef_Graph.PNG)
 
