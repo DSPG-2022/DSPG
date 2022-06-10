@@ -1,4 +1,4 @@
-#HomePage
+# HomePage
 
 # Joel Martin's DSPG Journal 2022
 
@@ -24,4 +24,5 @@
 	- Skateboarding
 	- Gaming (Satisfactory, Overwatch)
 
+Please visit [my journal](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Journal.md) to explore the things I did during the DSPG 2022 program!
 <br clear="right"/>
