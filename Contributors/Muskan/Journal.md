@@ -245,6 +245,15 @@ Continue with the dashboards and filters functionality
 
 *Nayha : 
 ##### *B-Day after 1:00 PM ( Day 3) - AgMRC Commodities
-
+Continue working on creating tableau visualisation from past work
 
 #### Friday - 6/10/2022
+##### *B-Day ( Day 4) - AgMRC Commodities
+Continue working on creating tableau visualisation from past work
+###### Team Tasks
+All : Started creating a tableau report similar to the past work done. So basically learning to pull data from USDA (https://quickstats.nass.usda.gov/) and putting it in tableau to create some visualisations.
+
+###### Team Results
+Everone presented their graphs on Honey, Eggs. All good!
+###### Outcomes
+PPT of work done till now
