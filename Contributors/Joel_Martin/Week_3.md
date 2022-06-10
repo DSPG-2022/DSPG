@@ -17,7 +17,7 @@ with the highest populations in Iowa were also Polk and Linn counties. This alig
 Another interesting find was that the IVRS program seems to be helping overall as many of the clients saw an increase
 in wages when their case was closed.
 
-![IVRS Hourly Wage](images/IVRS_hourly_wage.PNG)
+![IVRS Hourly Wage](images/IVRS_hourly_wage.png)
 
 
 Working in my B team this week I explored the USDA data furthur by trying out different ways to get the data into Tableau and also 
