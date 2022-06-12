@@ -2,12 +2,12 @@
 
 ## Tasks
 - [x] Create daily tasks and objectives to be shared with the team.
-- [ ] Finish DataCamp tutorials around tidycensus fundamentals in R
-- [ ] Finish DataCamp tutorials around Web data manipulation and API operations in R
-- [ ] Find and complete tutorials on data handling and pipelining with Tableau 
+- [x] Finish DataCamp tutorials around tidycensus fundamentals in R
+- [x] Start DataCamp tutorials around Web data manipulation and API operations in R
+- [x] Find and complete tutorials on data handling and pipelining with Tableau 
 - [x] Conduct preliminary research on project data/literature review for DHR and AgMRC projects
-- [ ] Compile a report of the preliminary research conducted for DHR
-- [ ] Compile a report of the preliminary research conducted for DHR
+- [x] Compile a report of the preliminary research conducted for DHR
+- [x] Compile a report of the preliminary research conducted for Farmer's Asset Mapping
 
 
 ## What I've learned
@@ -211,10 +211,7 @@
           m@map
           ```
           </details>
-    2. An important part of data collection for the Farmer's Market Assets project will be to work with web APIs. For this reason, I started the "Working With Web Data in R" Course.
-          <details><summary>Click here for examples of practice codes:</summary>
-          
-          </details>
+    2. An important part of data collection for the Farmer's Market Assets project will be to work with web APIs. For this reason, I started the "Working With Web Data in R" Course. I began focusing more on applying this training in Week Three.
     3. Worked to create maps for the Census Exercise. Wrote code in R to show the diversity of race in Illinois and South Dakota and the imparity between Male and Female populations for both states. The code in HTML format can be found [here](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Harun_Celik/HarunScriptCensusAssignment.html)
 
 

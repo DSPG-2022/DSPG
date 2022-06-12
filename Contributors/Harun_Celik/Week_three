@@ -1,0 +1,20 @@
+# Week Two
+
+## Tasks
+- [x] Create daily tasks and objectives to be shared with the team.
+- [x] Finish DataCamp tutorials around Web data manipulation and API operations in R
+- [x] Find and complete tutorials on data handling and pipelining with Tableau 
+- [x] Conduct preliminary research on project data/literature review for DHR and AgMRC projects
+- [x] Bring in guest speaker to explain operations for ISU's [Mesonet Webpage](https://mesonet.agron.iastate.edu/)
+
+
+
+## What I've learned
+
+- **R**
+    1. The Farmer's Market project heavily focuses on the extraction of data from different weather organizations as well as datasets for soil data. As an important resource, I continued practicing with APIs and Web scraping by using [Iowa State University's Mesonet](https://mesonet.agron.iastate.edu/). I continued my training in learning the ```rvest``` library.
+        <details><summary>Click here for examples of practice codes:</summary>
+          
+        </details>
+
+
