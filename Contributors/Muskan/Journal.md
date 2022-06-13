@@ -257,3 +257,9 @@ All : Started creating a tableau report similar to the past work done. So basica
 Everone presented their graphs on Honey, Eggs. All good!
 ###### Outcomes
 PPT of work done till now
+
+
+
+########## ## Week_4
+#### Monday - 6/13/2022
+##### *A-Day ( Day 5) - Local Foods
