@@ -260,6 +260,14 @@ PPT of work done till now
 
 
 
-########## ## Week_4
+## Week_4
 #### Monday - 6/13/2022
 ##### *A-Day ( Day 5) - Local Foods
+
+
+#### Tuesday - 6/14/2022
+##### *B-Day ( Day 5) - AgMRC Commodities
+Team started working on creating tableau visualisation from past work
+
+#### Wednesday - 6/15/2022
+##### *A-Day ( Day 6) - Local Foods
