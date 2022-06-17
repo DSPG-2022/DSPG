@@ -2,23 +2,10 @@
 ## Day 9 (B)
 6/13/2022
 
-- [x] Meeting at 8:45am. Liesl & Romina, Agenda finalizing 
-- [ ] Meeting at 9am. Group meeting 
 
-- [x] Explore content and document structure of three key data sources that are useful for measuring and describing a community’s housing stock:
-            Felix: U.S. CensusBureau building permits
-            Cory: Residential assessment data from Beacon sites & Scott County
-            Tanishq: Housing vacancies
-- [x] Meeting at 1pm: Group meeting, Group check of findings
-- [x] Continue searching for more information
-- [x] Meeting at 4pm: final meeting of the day and results of the day 
-- [x] Turn in all data found in Cybox
 
 ### Day 9 Output
-Three topics were explored and data was found:
-1. Building Permits
-2. Residential Assessment
-3. Housing Vacancies
+
 
 ## Day 10 (B)
 6/14/2022
