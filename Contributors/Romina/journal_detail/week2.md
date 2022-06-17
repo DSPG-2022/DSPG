@@ -38,3 +38,14 @@ Data visualized for:
 
 ### Day 2 Remaining
 1. Age pyramid visualization
+
+
+## Day 3 (A)
+6/3/2022
+
+- [x] Meeting at 9am. Group meeting, Project Intro
+- [x] Collect demographic data from census and other websites for Minnesota and Missouri
+- [x] Provide a comparative profile for Minnesota and Missouri
+
+### Day 3 Output
+Full Minnesota and Missouri demographic profile!
