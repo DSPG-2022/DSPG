@@ -45,9 +45,9 @@
 - [ ] Turn treemap into indicators category
 - [ ] Organize data that has been already found
 - [ ] Start with the plan:
-       Felix: Start word cloud and organize RHRA survey data to be used in cloud
-       Cory: Start list of indicators including Housing cost Burden and Radar Graph
-       Tanishq: Start list of indicators including Housing cost Burden and Radar Graph
+       - Felix: Start word cloud and organize RHRA survey data to be used in cloud
+       - Cory: Start list of indicators including Housing cost Burden and Radar Graph
+       - Tanishq: Start list of indicators including Housing cost Burden and Radar Graph
 - [ ] Meeting at 11:30 am: half way group meeting, Group check of findings
 - [ ] Continue searching for more information
 - [ ] Meeting at 1pm: Noon meeting of the day and results of the day
