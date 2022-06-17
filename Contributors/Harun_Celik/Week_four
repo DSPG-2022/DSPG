@@ -1,0 +1,29 @@
+# Week Four
+
+## Tasks
+- [x] Create daily tasks and objectives to be shared with the team.
+- [ ] Finish DataCamp tutorials on reshaping data in R
+- [ ] Start DataCamp tutorials on more advanced ggplot coding in R
+- [ ] Find and complete tutorials on data handling and pipelining with Tableau 
+- [x] Arrange presentation for DHR Data Discovery meeting
+- [ ] Organize directories and begin outlining the different datasets available for projects
+- [x] Work on creating a mock project for Beginner Farmer's Assets team
+
+
+
+## What I've learned
+
+- **R**
+    1. My code for webscraping for [Iowa State University's Mesonet](https://mesonet.agron.iastate.edu/) could better be adapted to a function. I continued working to create a script that would be easier to pull information from.
+        <details><summary>Click here for examples of practice codes:</summary>
+        Attach Code Once Finished
+        </details>
+    2. With the Data Discovery Meeting coming up with the DHR Client, my task was  to organize a number of different visuals to be placed into the presentation. Besides the work of the project interns, I was able to contribute with these two visuzalizations for ACS data.
+        <details><summary>Click here for examples of practice codes:</summary>
+        Attach Code Once Finished
+        </details>
+    3. I continued my DataCamp training in R by focusing firstly on _Reshaping Data with tidyr_. The focus of this course was to get a better understanding of how to format data we receive in the projects using ```tidyr```. 
+        <details><summary>Click here for examples of practice codes:</summary>
+        Attach Code Once Finished
+        </details>
+
