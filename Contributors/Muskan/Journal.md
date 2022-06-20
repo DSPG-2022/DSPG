@@ -263,7 +263,12 @@ PPT of work done till now
 ## Week_4
 #### Monday - 6/13/2022
 ##### *A-Day ( Day 5) - Local Foods
-
+Local Foods -Update Adisak on progress –Google Trends
+Maxwell: Work on finding the correlation between price and hits
+Nabil: work on finding more data sources and see if you can scrape the stores data like walmart/Hyvee/amazon  
+Nayha: work on exploring the data sources like:
+https://www.fao.org/faostat/en/#data/QCL
+https://www.foodcoop.com/produce/
 
 #### Tuesday - 6/14/2022
 ##### *B-Day ( Day 5) - AgMRC Commodities
@@ -271,3 +276,29 @@ Team started working on creating tableau visualisation from past work
 
 #### Wednesday - 6/15/2022
 ##### *A-Day ( Day 6) - Local Foods
+Local Foods -Discuss the questions document for Client’s meeting 
+Maxwell: Work on finding the correlation between price and hits
+Nabil: work on finding more data sources and see if you can scrape the stores data like walmart/Hyvee/amazon  
+Nayha: work on exploring the data sources like:
+https://www.foodcoop.com/produce/
+
+
+#### Thursday - 6/16/2022
+##### *B-Day ( Day 6) - AgMRC Commodities
+Team started working on creating tableau visualisation from past work
+
+#### Friday - 6/17/2022
+##### *A-Day ( Day 7) - Local Foods
+Maxwell: Work on finding the correlation between price and hits
+Nabil: Hyvee data scrap  
+Nayha: work on comparing different price data
+
+
+
+## Week_5
+#### Monday - 6/20/2022
+##### *A-Day ( Day 8) - Local Foods
+
+Max - Web Scraping https://www.prudentproduce.net/shop/shop
+Nabil - Web Scraping Walmart+Hyvee
+Nahya - Web Scraping https://shop.iowafood.coop/
