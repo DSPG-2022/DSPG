@@ -1,5 +1,5 @@
 # Week Two
-## Day 4 (A)
+## Day 1 (A)
 6/6/2022
 
 - [x] Meeting at 8:45am. Liesl & Romina, Agenda finalizing 
@@ -14,48 +14,48 @@
 - [x] Meeting at 4pm: final meeting of the day and results of the day 
 - [x] Turn in all data found in Cybox
 
-### Day 4 Output
+### Day 1 Output
 Three topics were explored and data was found:
 1. Building Permits
 2. Residential Assessment
 3. Housing Vacancies
 
-## Day 5 (B)
+## Day 2 (B)
 6/7/2022
 
 
 
 
-### Day 5 Output
+### Day 2 Output
 
 
-### Day 5 Remaining
+### Day 2 Remaining
 
 
-## Day 6 (A)
+## Day 3 (A)
 6/8/2022
 
 
 
-### Day 6 Output
+### Day 3 Output
 
 
 
-## Day 7 (A & B)
+## Day 4 (A & B)
 6/9/2022
 
 
 
-### Day 7 Output
+### Day 4 Output
 
 
 
-## Day 8 (A)
+## Day 5 (A)
 6/10/2022
 
 
 
-### Day 8 Output
+### Day 5 Output
 
 
 
