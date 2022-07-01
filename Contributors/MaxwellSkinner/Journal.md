@@ -156,3 +156,7 @@ hitss %>% filter(year == "2016") %>% ggplot(aes((month), hits,
 
 ### Day 4
 
+## Week 5
+
+## Week 6
+
