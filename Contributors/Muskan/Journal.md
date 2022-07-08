@@ -357,6 +357,7 @@ Maxwell: Work on the Demographics data to combine with the commodity data
 3. Maxwell: getting trends data for finalised veggies
 4. Muskan : follow up emails to producers(Courtney - Lead)
 
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/17107300/178058708-580c69ab-da4e-4e0e-9fb6-33a2b32fbb07.png)
 
 ##### *B-Day after 1:00 PM ( Day 12) - AgMRC Commodities
 Start creating the final dashboards for eggs and beef
