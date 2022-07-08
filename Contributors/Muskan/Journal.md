@@ -170,11 +170,7 @@ Everone presented their graphs on Honey, Eggs. All good!
 ###### Outcomes
 1. Beef do not have county/state level data.....Rakesh to talk to the client to get this data or other option is to use the cattle data
 Number of Beef Cows by State
-
 The number of cattle in every state is a good indicator of how much beef each state produces. Seven states have over 1 million beef cows in 2021. The ten states with the highest number of beef cows are:
-
-
-	
 Texas - 4,685,000
 	
 Oklahoma - 2,189,000
@@ -224,7 +220,7 @@ Continue with the dashboards and filters functionality
 
 
 
-#### Thursday - 6/9/2022 A/B dat
+#### Thursday - 6/9/2022 A/B day
 ##### *A-Day till 12:00 PM ( Day 4) - Local Foods
 1. Complete work with Google Trends, generate graphs for next week meeting
 2. Look at Facebook API (Facebook market place), Craigslist API or Twitter to see if we can identify producers advertising their products on those platforms
@@ -302,3 +298,67 @@ Nayha: work on comparing different price data
 Max - Web Scraping https://www.prudentproduce.net/shop/shop
 Nabil - Web Scraping Walmart+Hyvee
 Nahya - Web Scraping https://shop.iowafood.coop/
+
+#### Tuesday - 6/21/2022
+##### *B-Day ( Day 7) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Wednesday - 6/22/2022
+##### *A-Day ( Day 9) - Local Foods
+Max - Web Scraping https://www.prudentproduce.net/shop/shop
+Nabil - Web Scraping Walmart+Hyvee
+Nahya - Web Scraping https://shop.iowafood.coop/
+
+#### Thursday - 6/23/2022
+##### *B-Day ( Day 8) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Friday - 6/24/2022
+##### *B-Day ( Day 9) - AgMRC Commodities
+Prepare the graphs and dashboards for the client meeting @2:00 PM
+
+
+
+## Week_6
+#### Monday - 6/27/2022
+##### *A-Day ( Day 10) - Local Foods
+
+Max - Web Scraping https://www.prudentproduce.net/shop/shop
+Nabil - Web Scraping Walmart+Hyvee
+Nahya - Web Scraping https://shop.iowafood.coop/
+
+#### Tuesday - 6/28/2022
+##### *B-Day ( Day 10) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Wednesday - 6/29/2022
+##### *A-Day ( Day 11) - Local Foods
+1. Nahya : talking to producers for data
+2. Nabil: web scraping 
+3. Maxwell: getting trends data 
+4. Muskan : follow up emails to producers(Courtney - Lead)
+
+#### Thursday - 6/30/2022
+##### *B-Day ( Day 11) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Friday - 7/1/2022 (A/B day)
+##### *A-Day till 12:00 PM ( Day 12) - Local Foods
+1. Nahya : talking to producers for data (ISU dinning)
+2. Nabil: web scraping completed 
+3. Maxwell: getting trends data for finalised veggies
+4. Muskan : follow up emails to producers(Courtney - Lead)
+
+
+##### *B-Day after 1:00 PM ( Day 12) - AgMRC Commodities
+Start creating the final dashboards for eggs and beef
+
+
