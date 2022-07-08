@@ -375,13 +375,13 @@ HOLIDAY
 HOLIDAY
 
 #### Thursday - 7/7/2022
-##### *A-Day ( Day 12) - Local Foods
+##### *A-Day ( Day 13) - Local Foods
 1. Nahya : talking to producers for data
 2. Nabil: web scraping 
 3. Maxwell: do a comparison of data so far
 4. Muskan : follow up emails to producers(Courtney - Lead)
 
 #### Friday - 7/8/2022
-##### *B-Day ( Day 12) - AgMRC Commodities
+##### *B-Day ( Day 13) - AgMRC Commodities
 Final dashboards
 
