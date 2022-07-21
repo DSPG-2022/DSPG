@@ -385,3 +385,38 @@ HOLIDAY
 ##### *B-Day ( Day 13) - AgMRC Commodities
 Final dashboards
 
+## Week_8
+#### Monday - 7/11/2022
+##### *A-Day ( Day 14) - Local Foods
+
+#### Tuesday - 7/12/2022
+##### *B-Day ( Day 14) - AgMRC Commodities
+
+#### Wednesday - 7/13/2022
+##### *A-Day ( Day 15) - Local Foods
+
+#### Thursday - 7/14/2022
+##### *B-Day ( Day 15) - AgMRC Commodities
+
+
+#### Friday - 7/15/2022
+##### *A-Day ( Day 16) - Local Foods
+Final dashboards
+
+## Week_9
+#### Monday - 7/18/2022
+##### *A-Day ( Day 17) - Local Foods
+
+#### Tuesday - 7/19/2022
+##### *B-Day ( Day 17) - AgMRC Commodities
+
+#### Wednesday - 7/20/2022
+##### *A-Day ( Day 18) - Local Foods
+
+#### Thursday - 7/21/2022
+##### *B-Day ( Day 19) - AgMRC Commodities
+
+
+#### Friday - 7/22/2022
+##### *B-Day ( Day 20) - Local Foods
+Final dashboards
