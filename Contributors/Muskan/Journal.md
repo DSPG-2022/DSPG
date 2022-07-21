@@ -408,15 +408,15 @@ Final dashboards
 ##### *A-Day ( Day 17) - Local Foods
 
 #### Tuesday - 7/19/2022
-##### *B-Day ( Day 17) - AgMRC Commodities
+##### *B-Day ( Day 16) - AgMRC Commodities
 
 #### Wednesday - 7/20/2022
 ##### *A-Day ( Day 18) - Local Foods
 
 #### Thursday - 7/21/2022
-##### *B-Day ( Day 19) - AgMRC Commodities
+##### *B-Day ( Day 17) - AgMRC Commodities
 
 
 #### Friday - 7/22/2022
-##### *B-Day ( Day 20) - Local Foods
+##### *B-Day ( Day 18) - Local Foods
 Final dashboards
