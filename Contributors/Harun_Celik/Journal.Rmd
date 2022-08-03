@@ -8,8 +8,8 @@ output:
 ---
 
 ```{r, include=FALSE}
-knitr::opts_chunk$set(eval=FALSE)
-getwd()
+knitr::opts_chunk$set(eval=FALSE
+                      )
 ```
 
 ## **Bio**
@@ -409,7 +409,106 @@ Harun Celik is a PhD student in the RATE Program of History at Iowa State Univer
     ```
  </details>
         
-  - With the Data Discovery Meeting coming up with the DHR Client, my task was to organize a number of different visuals to be placed into the presentation. Besides the work of the project interns, I was able to contribute with these two visualizations for ACS data.
+  - With the Data Discovery Meeting coming up with the DHR Client, my task was to organize a number of different visuals to be placed into the presentation.
   - I continued my DataCamp training in R by focusing firstly on _Reshaping Data with tidyr_. The focus of this course was to get a better understanding of how to format data we receive in the projects using ```tidyr```.
-    
+  
+### Week Five
 
+#### Tasks
+- [x] Detail the possible questions from the matrix document provided by client for interns to answer.
+- [x] Go through the Bureau of Labor Statistics Website to find relevant datasets.
+- [x] Go through the BRFSS to find relevant datasets.
+- [x] Go through the National Health Interview Survey to find relevant datasets.
+- [x] Go through the Social Security Administration Website to find relevant datasets.
+- [x] Learn more about weather predictive data.
+
+
+#### What I've learned
+
+- *Data Exploration*
+  - In the post-client meeting for the DHR client, we learned more in detail about the different services and organizations that we needed to explore. For the time being, I put aside working on the visualizations with the students and began conducting a literature review of the organizations and links they provided for our project's progress.
+  - For the Beginning Farmer's project, the interns continue focusing on their respective parts of the project which dealt with getting weather data, matching soil data to suitability indices and having Sanika calculate GDDs. Using the IEM Reanalysis tool, I started working on code to pull json formatted date from the MesoNet webpage.
+ <details><summary>Click here for code:</summary>
+    ```{r setup, include=FALSE}
+    knitr::opts_chunk$set
+    
+    library(ggplot2)
+    library(httr)
+    library(xml2)
+    library(readr)
+    library(rvest)
+    library(tidyr)
+    library(rjson)
+    library(stringr)
+    library(tidyverse)
+    ```
+    
+    ```{r}
+    #Format URL to be ready for time and place input
+    base_url <- "https://mesonet.agron.iastate.edu/iemre/multiday/"
+    
+    start_time = "2019-01-01"
+    end_time = "2019-06-01"
+    latitude = "42.54"
+    longitude = "-96.40"
+    
+    full_url <- sprintf("https://mesonet.agron.iastate.edu/iemre/multiday/%s/%s/%s/%s/json", start_time, end_time, latitude, longitude)
+    ```
+    
+    ```{r}
+    ## Downloads data from the IEM website in json format
+    #download.file(url = full_url, destfile = "test.json")
+    
+    #Read Json file
+    IEM_json <- fromJSON(file = "test.json")
+    ```
+    
+    ```{r}
+    #Converting to data frame
+    IEM_data <- as.data.frame(IEM_json)
+    ```
+    
+    ```{r}
+    #Converting output to a long format
+    IEM_long <- gather(IEM_data, key = "variables", value = "data")
+    ```
+    
+    ```{r}
+    #Cleaning value names before converting wide
+    
+    IEM_clean_variables <- IEM_long$variables %>% 
+      str_replace("data.", "") %>%
+      str_replace("\\..*", "")
+      
+    IEM_long$variables = c(IEM_clean_variables)
+    ```
+    
+    ```{r}
+    #Pivoting data frame to Wide Format
+    IEM_wide <- IEM_long %>%
+      mutate(row = row_number()) %>%
+      pivot_wider(-row,
+                  names_from = variables,
+                  values_from = data
+      )
+    IEM_please <- IEM_wide %>%
+      unnest(IEM_wide)
+    ```
+ </details>
+ 
+### Week Six
+
+#### Tasks
+- [x] Detail the possible questions from the matrix document provided by client for interns to answer.
+- [x] Go through the Bureau of Labor Statistics Website to find relevant datasets.
+- [x] Go through the BRFSS to find relevant datasets.
+- [x] Go through the National Health Interview Survey to find relevant datasets.
+- [x] Go through the Social Security Administration Website to find relevant datasets.
+
+
+#### What I've learned
+
+- *Data Exploration*
+  - Our client meeting with the AgMRC client helped to orient the direction of our project towards a number of different additions. We decided to work on including more details to our dashboard, we decided to start focusing on certain aspects of risk management, using suitability ratings to determine map units and focusing on soil type as an important indicator of suitability.
+  - 
+  
