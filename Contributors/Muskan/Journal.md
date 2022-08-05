@@ -170,11 +170,7 @@ Everone presented their graphs on Honey, Eggs. All good!
 ###### Outcomes
 1. Beef do not have county/state level data.....Rakesh to talk to the client to get this data or other option is to use the cattle data
 Number of Beef Cows by State
-
 The number of cattle in every state is a good indicator of how much beef each state produces. Seven states have over 1 million beef cows in 2021. The ten states with the highest number of beef cows are:
-
-
-	
 Texas - 4,685,000
 	
 Oklahoma - 2,189,000
@@ -224,7 +220,7 @@ Continue with the dashboards and filters functionality
 
 
 
-#### Thursday - 6/9/2022 A/B dat
+#### Thursday - 6/9/2022 A/B day
 ##### *A-Day till 12:00 PM ( Day 4) - Local Foods
 1. Complete work with Google Trends, generate graphs for next week meeting
 2. Look at Facebook API (Facebook market place), Craigslist API or Twitter to see if we can identify producers advertising their products on those platforms
@@ -257,3 +253,170 @@ All : Started creating a tableau report similar to the past work done. So basica
 Everone presented their graphs on Honey, Eggs. All good!
 ###### Outcomes
 PPT of work done till now
+
+
+
+## Week_4
+#### Monday - 6/13/2022
+##### *A-Day ( Day 5) - Local Foods
+Local Foods -Update Adisak on progress –Google Trends
+Maxwell: Work on finding the correlation between price and hits
+Nabil: work on finding more data sources and see if you can scrape the stores data like walmart/Hyvee/amazon  
+Nayha: work on exploring the data sources like:
+https://www.fao.org/faostat/en/#data/QCL
+https://www.foodcoop.com/produce/
+
+#### Tuesday - 6/14/2022
+##### *B-Day ( Day 5) - AgMRC Commodities
+Team started working on creating tableau visualisation from past work
+
+#### Wednesday - 6/15/2022
+##### *A-Day ( Day 6) - Local Foods
+Local Foods -Discuss the questions document for Client’s meeting 
+Maxwell: Work on finding the correlation between price and hits
+Nabil: work on finding more data sources and see if you can scrape the stores data like walmart/Hyvee/amazon  
+Nayha: work on exploring the data sources like:
+https://www.foodcoop.com/produce/
+
+
+#### Thursday - 6/16/2022
+##### *B-Day ( Day 6) - AgMRC Commodities
+Team started working on creating tableau visualisation from past work
+
+#### Friday - 6/17/2022
+##### *A-Day ( Day 7) - Local Foods
+Maxwell: Work on finding the correlation between price and hits
+Nabil: Hyvee data scrap  
+Nayha: work on comparing different price data
+
+
+
+## Week_5
+#### Monday - 6/20/2022
+##### *A-Day ( Day 8) - Local Foods
+
+Max - Web Scraping https://www.prudentproduce.net/shop/shop
+Nabil - Web Scraping Walmart+Hyvee
+Nahya - Web Scraping https://shop.iowafood.coop/
+
+#### Tuesday - 6/21/2022
+##### *B-Day ( Day 7) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Wednesday - 6/22/2022
+##### *A-Day ( Day 9) - Local Foods
+Max - Web Scraping https://www.prudentproduce.net/shop/shop
+Nabil - Web Scraping Walmart+Hyvee
+Nahya - Web Scraping https://shop.iowafood.coop/
+
+#### Thursday - 6/23/2022
+##### *B-Day ( Day 8) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Friday - 6/24/2022
+##### *B-Day ( Day 9) - AgMRC Commodities
+Prepare the graphs and dashboards for the client meeting @2:00 PM
+
+
+
+## Week_6
+#### Monday - 6/27/2022
+##### *A-Day ( Day 10) - Local Foods
+
+Max - Web Scraping https://www.prudentproduce.net/shop/shop
+Nabil - Web Scraping Walmart+Hyvee
+Nahya - Web Scraping https://shop.iowafood.coop/
+
+#### Tuesday - 6/28/2022
+##### *B-Day ( Day 10) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Wednesday - 6/29/2022
+##### *A-Day ( Day 11) - Local Foods
+1. Nahya : talking to producers for data
+2. Nabil: web scraping 
+3. Maxwell: getting trends data 
+4. Muskan : follow up emails to producers(Courtney - Lead)
+
+#### Thursday - 6/30/2022
+##### *B-Day ( Day 11) - AgMRC Commodities
+Joel: ESRI Data set and further investigating to include demographics data
+Tanishq: Investigate more on the ESRI Dataset and USDA
+Maxwell: Work on the Demographics data to combine with the commodity data
+
+#### Friday - 7/1/2022 (A/B day)
+##### *A-Day till 12:00 PM ( Day 12) - Local Foods
+1. Nahya : talking to producers for data (ISU dinning)
+2. Nabil: web scraping completed 
+3. Maxwell: getting trends data for finalised veggies
+4. Muskan : follow up emails to producers(Courtney - Lead)
+
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/17107300/178058708-580c69ab-da4e-4e0e-9fb6-33a2b32fbb07.png)
+
+##### *B-Day after 1:00 PM ( Day 12) - AgMRC Commodities
+Start creating the final dashboards for eggs and beef
+
+
+
+## Week_7
+#### Monday - 7/4/2022
+HOLIDAY
+
+#### Tuesday - 7/5/2022
+HOLIDAY
+
+#### Wednesday - 7/6/2022
+HOLIDAY
+
+#### Thursday - 7/7/2022
+##### *A-Day ( Day 13) - Local Foods
+1. Nahya : talking to producers for data
+2. Nabil: web scraping 
+3. Maxwell: do a comparison of data so far
+4. Muskan : follow up emails to producers(Courtney - Lead)
+
+#### Friday - 7/8/2022
+##### *B-Day ( Day 13) - AgMRC Commodities
+Final dashboards
+
+## Week_8
+#### Monday - 7/11/2022
+##### *A-Day ( Day 14) - Local Foods
+
+#### Tuesday - 7/12/2022
+##### *B-Day ( Day 14) - AgMRC Commodities
+
+#### Wednesday - 7/13/2022
+##### *A-Day ( Day 15) - Local Foods
+
+#### Thursday - 7/14/2022
+##### *B-Day ( Day 15) - AgMRC Commodities
+
+
+#### Friday - 7/15/2022
+##### *A-Day ( Day 16) - Local Foods
+Final dashboards
+
+## Week_9
+#### Monday - 7/18/2022
+##### *A-Day ( Day 17) - Local Foods
+
+#### Tuesday - 7/19/2022
+##### *B-Day ( Day 16) - AgMRC Commodities
+
+#### Wednesday - 7/20/2022
+##### *A-Day ( Day 18) - Local Foods
+
+#### Thursday - 7/21/2022
+##### *B-Day ( Day 17) - AgMRC Commodities
+
+
+#### Friday - 7/22/2022
+##### *B-Day ( Day 18) - Local Foods
+Final dashboards
