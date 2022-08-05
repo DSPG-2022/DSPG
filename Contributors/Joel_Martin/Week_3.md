@@ -32,4 +32,6 @@ I still need to find a few settings to improve this visual but starting out I th
 
 
 
-[Back to Week 2](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_2.md) - [Continue to Week 4](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_4.md) - [Return to Journal Beginning](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Journal.md)
+[Back to Week 2](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_2.md) - [Continue to Week 4](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_4.md)
+
+[Return to Journal Beginning](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Journal.md)

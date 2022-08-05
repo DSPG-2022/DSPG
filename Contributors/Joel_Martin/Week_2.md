@@ -14,4 +14,6 @@ While working on my B team, AgMRC Interactive Commodity Reports, I used Tableau 
 
 ![Egg Graph](images/Egg_Graph.PNG)
 
-[Back to Week 1](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_1.md) - [Continue to Week 3](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_3.md) - [Return to Journal Beginning](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Journal.md)
+[Back to Week 1](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_1.md) - [Continue to Week 3](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Week_3.md)
+
+[Return to Journal Beginning](https://github.com/DSPG-2022/DSPG/blob/main/Contributors/Joel_Martin/Journal.md)
